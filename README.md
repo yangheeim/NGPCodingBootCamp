@@ -6,7 +6,6 @@ This project is structured as follow:
 ```
 NGPCodingBootCamp/
 │
-│
 ├── main.m                   % Main script to run everything
 ├── utils/            % Folder for the class definition
 │   └── DataProcessor.m      % Class file for data processing
